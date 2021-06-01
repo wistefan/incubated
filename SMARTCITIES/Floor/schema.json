@@ -11,7 +11,7 @@
       "enum": [
         "Floor"
       ],
-      "description": "NGSI Entity type"
+      "description": "NGSI Entity typ 3e"
     },
     "inBuilding": {
       "anyOf": [
